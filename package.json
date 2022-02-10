@@ -30,7 +30,7 @@
     "font-awesome": "^4.7.0",
     "formik": "^1.5.8",
     "mui-datatables": "^2.13.3",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "primeicons": "^2.0.0",
     "primereact": "^3.3.3",
     "prop-types": "^15.7.2",
